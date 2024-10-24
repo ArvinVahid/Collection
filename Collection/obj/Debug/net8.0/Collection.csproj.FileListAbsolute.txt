@@ -1,0 +1,14 @@
+C:\Users\Arvin\RiderProjects\Collection\Collection\bin\Debug\net8.0\Collection.exe
+C:\Users\Arvin\RiderProjects\Collection\Collection\bin\Debug\net8.0\Collection.deps.json
+C:\Users\Arvin\RiderProjects\Collection\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\Arvin\RiderProjects\Collection\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\Arvin\RiderProjects\Collection\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.pdb
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+C:\Users\Arvin\RiderProjects\Collection\Collection\obj\Debug\net8.0\ref\Collection.dll
